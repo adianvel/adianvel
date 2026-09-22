@@ -11,9 +11,3 @@
 <p align="center">
   Building things, learning things, shipping things.
 </p>
-
-<p align="center">
-  <a href="https://github.com/adianvel">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/adianvel">LinkedIn</a>
-</p>
