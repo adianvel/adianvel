@@ -5,9 +5,5 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer · AI · Full-stack</strong>
-</p>
-
-<p align="center">
   Building things, learning things, shipping things.
 </p>
